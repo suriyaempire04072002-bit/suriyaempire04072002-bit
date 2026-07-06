@@ -35,10 +35,11 @@ I'm now applying that same rigor to retail and consumer datasets — sales trend
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,python,powerbi,git,github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=mysql,python,git,github&theme=light" />
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
@@ -68,7 +69,7 @@ Exploratory analysis of customer shopping patterns to surface behavioral and pur
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suriyaempire04072002-bit&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=suriyaempire04072002-bit&hide_border=true" />
 </p>
 
 ---
