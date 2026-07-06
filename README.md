@@ -1,90 +1,101 @@
-# 👋 Hey, I'm Suriya S  
-**Data Analyst | Healthcare Analytics → Retail Analytics | SQL • Python • Power BI • Tableu**
+<h1 align="center">Hi there, I'm Suriya S 👋</h1>
 
-Based in Chennai | Open to opportunities in data analytics and insights
+<p align="center">
+  <a href="https://linkedin.com/in/igsuri03">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+US+Healthcare+Analytics;Transitioning+into+Retail+%26+Consumer+Analytics;SQL+%7C+Power+BI+%7C+Python+%7C+PySpark;Turning+messy+data+into+clear+decisions" alt="Typing SVG" />
+  </a>
+</p>
 
----
-
-## 🎯 About Me
-
-I'm a Data Analyst with **3.5+ years** of experience in **US-based healthcare analytics**, specializing in claims data, provider enrollment, and credentialing  datas. I'm actively transitioning into **retail and consumer analytics**, bringing strong technical fundamentals and a problem-solving mindset to every project.
-
-**Currently:** Exploring senior analyst roles in retail analytics, with a focus on consumer behavior, sales analytics, and operational insights.
-
----
-
-## 💻 Tech Stack
-
-**Languages & Tools:**
-- **SQL** — Window functions, CTEs, complex joins, data aggregation
-- **Python** — Pandas, data cleaning, analysis automation
-- **BI Tools** — Power BI (DAX, Power Query), Tableau, Advanced Excel
-- **Databases** — SQL Server, MySQL, data warehousing basics
-
-**Certifications & Education:**
-- MBA in Finance (Madras University, 2024)
-- B.Com (Guru Nanak College)
-- Master's Certification in Data Analytics
+<p align="center">
+  <a href="https://linkedin.com/in/igsuri03" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/suriyaempire04072002-bit" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Chennai,%20India-informational?style=for-the-badge" />
+</p>
 
 ---
 
-## 📊 Featured Projects
+### 👨‍💻 About Me
 
-Here are some projects I'm proud of. Click the titles to explore full code & documentation:
+I'm a Data Analyst with **~3.5 years of experience in US healthcare analytics**, currently transitioning into **retail and consumer analytics**. My background spans provider enrollment, credentialing (CAQH, CareFirst), and claims adjudication — where I built a strong foundation in cleaning messy real-world data, writing production SQL, and delivering client-facing Power BI dashboards under tight turnarounds.
 
-### 1. **[Blinkit Sales Data Analysis](https://github.com/suriyaempire04072002-bit/Blinkit-Sales-data-analysis)**
-*SQL • Power BI • Data Visualization*  
-Analyzed sales performance across products and categories using SQL and Power BI. Built interactive dashboards to identify top-performing items and sales trends.  
-**Key Skills:** Data aggregation, SQL analysis, Power BI dashboarding
+I'm now applying that same rigor to retail and consumer datasets — sales trends, customer behavior, and transactional analysis — while actively upskilling in Python, PySpark, and Microsoft Fabric.
 
-### 2. **[Customer Behavior Data Analysis](https://github.com/suriyaempire04072002-bit/customer_behavior_data_analysis)**
-*SQL • Python • Power BI*  
-Deep-dive into customer behavior patterns using SQL queries and Python data analysis. Implemented segmentation analysis with visualization in Power BI.  
-**Key Skills:** Python automation, SQL analysis, customer insights
+- 🔭 Currently working on: Retail analytics portfolio projects (Blinkit, customer behavior)
+- 🌱 Currently learning: PySpark, Microsoft Fabric (Lakehouse, Dataflows Gen2), Python OOP
+- 🎯 Actively looking for: Data Analyst roles (Chennai, WFO) — retail, insurance, or healthcare analytics
+- 🎓 MBA in Finance (Madras University) | Data Analytics Certification
+- 💬 Ask me about: SQL (window functions, CTEs), Power BI, healthcare data (CAQH/claims)
 
 ---
 
-## 🚀 What I'm Working On
+### 🧰 Tech Stack
 
-- **Strengthening Python skills** — Deep dive into Pandas, API handling, JSON data
-- **Retail domain expertise** — Understanding POS systems, TLog data, SKU hierarchies, consumer behavior
-- **Interview prep** — Active preparation for senior data roles in retail/CPG/sales analytics
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,python,powerbi,git,github&theme=light" />
+</p>
 
----
-
-## 📚 Learning & Growth
-
-I love learning through real projects. Currently upskilling in:
-- Advanced Python for data analysis
-- Retail-specific KPIs and metrics
-- Databricks and modern data platforms
-- Portfolio building (GitHub, dashboards, case studies)
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+</p>
 
 ---
 
-## 🤝 Let's Connect
+### 📌 Featured Projects
 
-- **GitHub:** [@suriyaempire04072002-bit](https://github.com/suriyaempire04072002-bit)
-- **LinkedIn:** [in/igsuri03](https://www.linkedin.com/in/igsuri03)
-- **Email:** suriyaempire2002@gmail.com
-- **Contactnumber** 9952066724
+**[Blinkit Sales Data Analysis](https://github.com/suriyaempire04072002-bit)**
+End-to-end analysis of $1.20M in sales across 8,523 items — SQL for cleaning, Power BI for reporting.
+Key finding: Fruits & Vegetables led categories at $178K; Tier 3 cities dominated at $472K.
+`SQL` `Power BI` `Data Cleaning`
 
-Open to discussions about:
-- Data analytics projects & portfolio reviews
-- Healthcare to retail transition stories
-- SQL, Python, or BI tool questions
-- Job opportunities in Chennai (WFO preferred)
+**[Customer Behavior Data Analysis](https://github.com/suriyaempire04072002-bit)**
+Exploratory analysis of customer shopping patterns to surface behavioral and purchasing trends.
+`Python` `Pandas` `EDA`
 
 ---
 
-## 💡 Fun Facts
+### 📊 GitHub Stats
 
-- Prefer **WFO** roles in Chennai — love being around the team
-- Passionate about **healthcare & retail analytics** — two domains with real-world impact
-- **Direct communicator** — I appreciate clear, conversational feedback over corporate jargon
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=suriyaempire04072002-bit&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suriyaempire04072002-bit&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suriyaempire04072002-bit&hide_border=true" />
+</p>
 
 ---
 
-**Thanks for visiting! If you found something useful, drop a ⭐**
+### 📈 Contribution Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suriyaempire04072002-bit&theme=minimal&hide_border=true" />
+</p>
 
+---
+
+### 🩺 → 🛒 My Transition Story
+
+Healthcare taught me how to work with **high-stakes, high-volume transactional data** under strict accuracy and turnaround requirements — the same muscles that power retail analytics (SKU-level trends, transaction patterns, customer segmentation). I'm bringing that discipline into consumer and retail data, backed by hands-on SQL/Python project work.
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/igsuri03" target="_blank">LinkedIn</a> ・
+  <a href="https://github.com/suriyaempire04072002-bit" target="_blank">GitHub</a>
+</p>
+
+<p align="center"><i>Open to Data Analyst opportunities in Chennai (WFO) — retail, insurance, and healthcare analytics.</i></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suriyaempire04072002-bit&style=flat-square&color=blue" alt="Profile views" />
+</p>
